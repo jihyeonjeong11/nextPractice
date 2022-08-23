@@ -2,6 +2,10 @@
 nextjs 연습을 위한 repo입니다
 
 
+1. NextJS에서 Redux/Toolkit의 사용 & getServerSideProps의 활용
+https://velog.io/@jihyeonjeong11/NextJS-SSG%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B2%8C-Redux%EC%99%80-%EA%B0%99%EC%9D%80-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
